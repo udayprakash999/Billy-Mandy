@@ -8,7 +8,7 @@
 
 ## Project ScreenShot
 
-![The Grim Adventures of Billy & Mandy Website](./assets/screenshot.png)
+![The Grim Adventures of Billy & Mandy Website](./assets/Screenshot 2026-10-27 150607.png)
 
 ## About The Project
 
